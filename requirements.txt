@@ -1,9 +1,7 @@
-streamlit>=1.36.0
-python-docx>=1.1.0
-pandas>=2.2.0
-numpy>=1.26.0
-openpyxl>=3.1.2
-google-generativeai>=0.7.0
+streamlit
+pandas
+numpy
+openpyxl # Cần cho việc xuất ra Excel
 plotly
-fpdf2
-python-docx
+google-genai
+python-docx # Cần để đọc file .docx
